@@ -1,1 +1,1 @@
-# Lampada-interativa
+# Lâmpada interativa
